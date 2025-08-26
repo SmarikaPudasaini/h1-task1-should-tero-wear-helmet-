@@ -50,13 +50,13 @@ Minor orders- handled via customer service
 
 #### Did we do the enough job?
 
--Continuous monitoring of logs.
+- Continuous monitoring of logs.
 
--Threat modeling update Quarterly or after major system changes.
+- Threat modeling update Quarterly or after major system changes.
 
--Routine inspections and controls.
+- Routine inspections and controls.
 
--Treat security system as an ongoing process.
+- Treat security system as an ongoing process.
 
 Source ->
 
