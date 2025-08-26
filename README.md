@@ -26,37 +26,37 @@ Risks ( prioritized)
 
 ### What are we gong to do about it?
 
-REDUCE
+1.REDUCE
 
-Strong authentication for customers and drivers.
+- Strong authentication for customers and drivers.
 
-Encrypt all sensitive data.
+- Encrypt all sensitive data.
 
-Web Application Firewall(WAF)+ DDoS protection.
+- Web Application Firewall(WAF)+ DDoS protection.
 
-ELIMINATE
+2.ELIMINATE
 
-Remove unnecessary admin account.
+- Remove unnecessary admin account.
 
-TRANSFER
+3.TRANSFER
 
-Use trusted third-party payment processor.
+- Use trusted third-party payment processor.
 
-Cyber insurance for data breaches.
+- Cyber insurance for data breaches.
 
-ACCEPT
+4.ACCEPT
 
 Minor orders- handled via customer service
 
 #### Did we do the enough job?
 
-Continuous monitoring of logs.
+-Continuous monitoring of logs.
 
-Threat modeling update Quarterly or after major system changes.
+-Threat modeling update Quarterly or after major system changes.
 
-Routine inspections and controls.
+-Routine inspections and controls.
 
-Treat security system as an ongoing process.
+-Treat security system as an ongoing process.
 
 Source ->
 
